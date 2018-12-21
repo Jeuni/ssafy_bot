@@ -18,7 +18,7 @@ This is an header
 
 
 |name|number|
-|----|======|
+|----|------|
 |SJ|01|
 |ssafy|03|
 
